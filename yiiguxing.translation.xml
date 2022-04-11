@@ -1,0 +1,62 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="719" />
+    <option name="newTranslationDialogY" value="446" />
+    <histories>
+      <item value="执照" />
+      <item value="condition" />
+      <item value="环境" />
+      <item value="环境图片" />
+      <item value="资质名" />
+      <item value="资质" />
+      <item value="星期" />
+      <item value="月中" />
+      <item value="半个月" />
+      <item value="半月" />
+      <item value="周期方式" />
+      <item value="周期类型" />
+      <item value="周期" />
+      <item value="Retention" />
+      <item value="周三" />
+      <item value="周二" />
+      <item value="周2" />
+      <item value="周一" />
+      <item value="押款" />
+      <item value="审批" />
+      <item value="卡账户" />
+      <item value="银行卡号" />
+      <item value="BIGINT UNSIGNED value is out of range in" />
+      <item value="六分豪礼" />
+      <item value="积分" />
+      <item value="福利" />
+      <item value="mould" />
+      <item value="Queries leading to data modification are not allowed" />
+      <item value="boutique" />
+      <item value="Brand" />
+      <item value="普通" />
+      <item value="活动" />
+      <item value="活动名" />
+      <item value="EXTRACT" />
+      <item value="QUOTE" />
+      <item value="UNQUOTE" />
+      <item value="执照名" />
+      <item value="图片" />
+      <item value="crditup" />
+      <item value="商品推荐和广告图修改" />
+      <item value="商品推荐和广告轮播图修改" />
+      <item value="修改" />
+      <item value="信用卡" />
+      <item value="餐饮" />
+      <item value="payment" />
+      <item value="支付成功" />
+      <item value="支付" />
+      <item value="弹屏" />
+      <item value="商城" />
+      <item value="market" />
+    </histories>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1649295222718" />
+  </component>
+</application>

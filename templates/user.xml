@@ -1,0 +1,24 @@
+<templateSet group="user">
+  <template name="des" value="/** &#10;* @Description: $description$&#10;* @Date: $date$&#10;*/" description="describe 注释快捷键: des+Tab" toReformat="false" toShortenFQNames="true">
+    <variable name="description" expression="annotated(&quot;annotation qname&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ides" value="/** &#10;* &#10;* &#10;* @param:  &#10;* @return:  &#10;*/" description="注释快捷键: ides+Tab" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JSP" value="true" />
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="hides" value="/**  */" description="注释快捷键: ides1+Tab  行注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
