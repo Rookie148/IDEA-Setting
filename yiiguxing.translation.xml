@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Delta compression using up to 6 threads Total 30 (delta 15), reused 0 (delta 0) remote: Gogs: Branch 'store20220330' is protected and commits must be merged through pull request error: failed to push some refs to" />
       <item value="执照" />
       <item value="condition" />
       <item value="环境" />
@@ -53,10 +54,9 @@
       <item value="支付" />
       <item value="弹屏" />
       <item value="商城" />
-      <item value="market" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649295222718" />
+    <option name="lastTrimTime" value="1649729369954" />
   </component>
 </application>
