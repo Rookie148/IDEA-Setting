@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Navigate To AOP Advices" />
       <item value="Propagation" />
       <item value="Branch dev already exists and has commits which do not exist in origindev. Would you like to rebase or reset them?" />
       <item value="direction" />
@@ -53,7 +54,6 @@
       <item value="商品推荐和广告轮播图修改" />
       <item value="修改" />
       <item value="信用卡" />
-      <item value="餐饮" />
     </histories>
   </component>
   <component name="Cache">
