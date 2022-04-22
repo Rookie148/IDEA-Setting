@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="You are using an offline license." />
+      <item value="Licensed to Administrator." />
+      <item value="at least 406 redeploysrestarts saving you about 16.5 hours." />
+      <item value="Over the last 30 days JRebel prevented" />
+      <item value="编辑" />
+      <item value="Approva" />
       <item value="db-config: id-type: auto logic-delete-value: 1 logic-not-delete-value: 0" />
       <item value="REQUIRED," />
       <item value="Navigate To AOP Advices" />
@@ -48,12 +54,6 @@
       <item value="活动名" />
       <item value="EXTRACT" />
       <item value="QUOTE" />
-      <item value="UNQUOTE" />
-      <item value="执照名" />
-      <item value="图片" />
-      <item value="crditup" />
-      <item value="商品推荐和广告图修改" />
-      <item value="商品推荐和广告轮播图修改" />
     </histories>
   </component>
   <component name="Cache">
