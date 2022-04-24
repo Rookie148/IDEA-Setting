@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="NUMERIC" />
+      <item value="Align" />
+      <item value="INTTHOUFORMAT" />
       <item value="You are using an offline license." />
       <item value="Licensed to Administrator." />
       <item value="at least 406 redeploysrestarts saving you about 16.5 hours." />
@@ -51,12 +54,9 @@
       <item value="Brand" />
       <item value="普通" />
       <item value="活动" />
-      <item value="活动名" />
-      <item value="EXTRACT" />
-      <item value="QUOTE" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650339978044" />
+    <option name="lastTrimTime" value="1650786249554" />
   </component>
 </application>
