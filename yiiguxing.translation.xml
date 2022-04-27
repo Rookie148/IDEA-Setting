@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Consider defining a bean of type 'com.msg.mybatis_first.mapper.StoreOrderMapper' in your configuration." />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.4:install (default-cli) on project message: The packaging for this project did not assign a file to the build artifact" />
       <item value="Certificate Parsing Exception" />
       <item value="Certificate Revoked Exception" />
@@ -53,7 +54,6 @@
       <item value="BIGINT UNSIGNED value is out of range in" />
       <item value="六分豪礼" />
       <item value="积分" />
-      <item value="福利" />
     </histories>
   </component>
   <component name="Cache">
