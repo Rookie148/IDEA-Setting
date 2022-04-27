@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="decode" />
+      <item value="encode" />
+      <item value="encode Base 64 String" />
+      <item value="get Private Key By Pfx" />
+      <item value="get Serial Number" />
+      <item value="Reads the contents of a file into a byte array" />
+      <item value="key Factory" />
       <item value="artifact Id" />
       <item value="group Id" />
       <item value="Consider defining a bean of type 'com.msg.mybatis_first.mapper.StoreOrderMapper' in your configuration." />
@@ -47,13 +54,6 @@
       <item value="Retention" />
       <item value="周三" />
       <item value="周二" />
-      <item value="周2" />
-      <item value="周一" />
-      <item value="押款" />
-      <item value="审批" />
-      <item value="卡账户" />
-      <item value="银行卡号" />
-      <item value="BIGINT UNSIGNED value is out of range in" />
     </histories>
   </component>
   <component name="Cache">
