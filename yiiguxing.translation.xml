@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="ROUNTINE" />
+      <item value="multiply" />
       <item value="decode" />
       <item value="encode" />
       <item value="encode Base 64 String" />
@@ -52,8 +54,6 @@
       <item value="周期类型" />
       <item value="周期" />
       <item value="Retention" />
-      <item value="周三" />
-      <item value="周二" />
     </histories>
   </component>
   <component name="Cache">
