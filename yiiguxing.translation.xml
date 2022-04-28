@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Executes HTTP request using the default context." />
       <item value="ROUNTINE" />
       <item value="multiply" />
       <item value="decode" />
@@ -53,7 +54,6 @@
       <item value="周期方式" />
       <item value="周期类型" />
       <item value="周期" />
-      <item value="Retention" />
     </histories>
   </component>
   <component name="Cache">
