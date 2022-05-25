@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="I send you my miss to the scattering stars and wish you a sweet dream under the light shedding through your window." />
+      <item value="I send you my miss to the scattering stars and wish you a sweet dream under the light shedding through your window" />
       <item value="Executes HTTP request using the default context." />
       <item value="ROUNTINE" />
       <item value="multiply" />
@@ -52,11 +54,9 @@
       <item value="半个月" />
       <item value="半月" />
       <item value="周期方式" />
-      <item value="周期类型" />
-      <item value="周期" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650786249554" />
+    <option name="lastTrimTime" value="1653443059820" />
   </component>
 </application>
