@@ -1,9 +1,47 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="719" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="I send you my miss to the scattering stars and wish you a sweet dream under the light shedding through your window." />
+      <item value="I send you my miss to the scattering stars and wish you a sweet dream under the light shedding through your window" />
+      <item value="Executes HTTP request using the default context." />
+      <item value="ROUNTINE" />
+      <item value="multiply" />
+      <item value="decode" />
+      <item value="encode" />
+      <item value="encode Base 64 String" />
+      <item value="get Private Key By Pfx" />
+      <item value="get Serial Number" />
+      <item value="Reads the contents of a file into a byte array" />
+      <item value="key Factory" />
+      <item value="artifact Id" />
+      <item value="group Id" />
+      <item value="Consider defining a bean of type 'com.msg.mybatis_first.mapper.StoreOrderMapper' in your configuration." />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-install-plugin:2.4:install (default-cli) on project message: The packaging for this project did not assign a file to the build artifact" />
+      <item value="Certificate Parsing Exception" />
+      <item value="Certificate Revoked Exception" />
+      <item value="Certificate Not Yet Valid Exception" />
+      <item value="certificate" />
+      <item value="save" />
+      <item value="NUMERIC" />
+      <item value="Align" />
+      <item value="INTTHOUFORMAT" />
+      <item value="You are using an offline license." />
+      <item value="Licensed to Administrator." />
+      <item value="at least 406 redeploysrestarts saving you about 16.5 hours." />
+      <item value="Over the last 30 days JRebel prevented" />
+      <item value="编辑" />
+      <item value="Approva" />
+      <item value="db-config: id-type: auto logic-delete-value: 1 logic-not-delete-value: 0" />
+      <item value="REQUIRED," />
+      <item value="Navigate To AOP Advices" />
+      <item value="Propagation" />
+      <item value="Branch dev already exists and has commits which do not exist in origindev. Would you like to rebase or reset them?" />
+      <item value="direction" />
+      <item value="disabled" />
+      <item value="COALESCE" />
       <item value="Delta compression using up to 6 threads Total 30 (delta 15), reused 0 (delta 0) remote: Gogs: Branch 'store20220330' is protected and commits must be merged through pull request error: failed to push some refs to" />
       <item value="执照" />
       <item value="condition" />
@@ -16,47 +54,9 @@
       <item value="半个月" />
       <item value="半月" />
       <item value="周期方式" />
-      <item value="周期类型" />
-      <item value="周期" />
-      <item value="Retention" />
-      <item value="周三" />
-      <item value="周二" />
-      <item value="周2" />
-      <item value="周一" />
-      <item value="押款" />
-      <item value="审批" />
-      <item value="卡账户" />
-      <item value="银行卡号" />
-      <item value="BIGINT UNSIGNED value is out of range in" />
-      <item value="六分豪礼" />
-      <item value="积分" />
-      <item value="福利" />
-      <item value="mould" />
-      <item value="Queries leading to data modification are not allowed" />
-      <item value="boutique" />
-      <item value="Brand" />
-      <item value="普通" />
-      <item value="活动" />
-      <item value="活动名" />
-      <item value="EXTRACT" />
-      <item value="QUOTE" />
-      <item value="UNQUOTE" />
-      <item value="执照名" />
-      <item value="图片" />
-      <item value="crditup" />
-      <item value="商品推荐和广告图修改" />
-      <item value="商品推荐和广告轮播图修改" />
-      <item value="修改" />
-      <item value="信用卡" />
-      <item value="餐饮" />
-      <item value="payment" />
-      <item value="支付成功" />
-      <item value="支付" />
-      <item value="弹屏" />
-      <item value="商城" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649729369954" />
+    <option name="lastTrimTime" value="1653443059820" />
   </component>
 </application>
