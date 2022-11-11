@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="jsp" type="JSP" />
-      <removed_mapping ext="tagf" type="JSP" />
-      <removed_mapping ext="tag" type="JSP" />
-      <removed_mapping ext="jsf" type="JSP" />
-      <removed_mapping ext="jspf" type="JSP" />
+      <mapping ext="jsp" type="JSP" />
+      <mapping ext="jspf" type="JSP" />
+      <mapping ext="tag" type="JSP" />
+      <mapping ext="jsf" type="JSP" />
+      <mapping ext="tagf" type="JSP" />
       <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
