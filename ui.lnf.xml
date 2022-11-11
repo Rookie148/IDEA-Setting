@@ -3,6 +3,8 @@
     <option name="UI_SHOW_MODULE_GROUPS" value="false" />
   </component>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="25600" />
     <option name="MAX_LOOKUP_WIDTH2" value="773" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
 </application>
