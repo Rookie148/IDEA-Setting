@@ -21,4 +21,11 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="apr" value="@Autowired&#10;private $var$ $end$;" description="Autowired" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
