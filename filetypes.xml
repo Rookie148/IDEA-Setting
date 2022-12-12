@@ -1,15 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="jsp" type="JSP" />
-      <mapping ext="jspf" type="JSP" />
-      <mapping ext="tag" type="JSP" />
-      <mapping ext="jsf" type="JSP" />
-      <mapping ext="tagf" type="JSP" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
