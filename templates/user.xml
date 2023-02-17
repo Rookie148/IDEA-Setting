@@ -7,7 +7,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ides" value="/** &#10;* &#10;* &#10;* @param:  &#10;* @return:  &#10;*/" description="注释快捷键: ides+Tab" toReformat="false" toShortenFQNames="true">
+  <template name="ides" value="/** &#10; * &#10; * &#10; * @param:  &#10; * @return:  &#10; */" description="注释快捷键: ides+Tab" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
